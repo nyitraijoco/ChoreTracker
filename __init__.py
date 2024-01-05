@@ -1,6 +1,5 @@
 import logging
 import uuid
-from homeassistant.const import STATE_UNKNOWN
 from homeassistant.helpers.entity import Entity
 
 _LOGGER = logging.getLogger(__name__)
