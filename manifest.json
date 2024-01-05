@@ -1,0 +1,10 @@
+{
+    "domain": "chore_tracker",
+    "name": "Chore Tracker",
+    "documentation": "https://github.com/nyitraijoco/ChoreTracker?tab=readme-ov-file#readme",
+    "dependencies": [],
+    "codeowners": [],
+    "version": "1.0",
+    "config_flow": false
+  }
+  
