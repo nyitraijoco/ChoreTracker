@@ -7,7 +7,7 @@ async def async_setup(hass, config):
     hass.data.setdefault(DOMAIN, {})
 
     # Import the ChoresCollection entity
-    from .chores_entity import ChoresCollection
+    from chores_entity import ChoresCollection
 
     # Instantiate the ChoresCollection entity and store it in Home Assistant data
     chores_entity = ChoresCollection()
